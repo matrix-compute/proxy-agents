@@ -1,0 +1,5 @@
+---
+"proxy": patch
+---
+
+Enable localAddress
